@@ -5,9 +5,50 @@
     <description>A personal blog for a journey in LEGO</description>
     <link>https://lego.volkanpaksoy.com/</link>
     <atom:link href="https://lego.volkanpaksoy.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Sep 2020 05:56:00 +0100</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2020 05:56:00 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2020 07:33:19 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2020 07:33:19 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Inventory</title>
+        <description>&lt;p&gt;If you’re going to build MOCs (My Own Creation) then you need to sort your LEGO first. You don’t need an inventory unless you’re planning to sell on BrickLink but you definitely need to keep everything sorted to enjoy this hobby. There are lots of sorting techniques and approaches. The best one is the one that works for you!&lt;/p&gt;
+
+&lt;p&gt;I’m a bit of a control freak so I need to know exactly how many pieces I have in my inventory so after I sorted everything I inventoried them as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/09/26/inventory/IMG_3496.jpeg&quot; alt=&quot;Personal inventory&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course you need to know what parts are in which locations. To manage that I use &lt;a href=&quot;https://brickstock.patrickbrans.com/&quot;&gt;BrickStock&lt;/a&gt;. It’s a great free and open source software that helps manage your inventory.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/09/26/inventory/BrickStock_Screenshot.png&quot; alt=&quot;BrickStock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s an old-school desktop application so make sure to backup your inventories (in .bsx files).&lt;/p&gt;
+
+&lt;p&gt;It took me weeks to identify all the parts. I got a ton of help from &lt;a href=&quot;https://www.bricklink.com/catalogTree.asp?itemType=P&quot;&gt;BrickLink Part Database&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another major help was learning the part numbers are actually printed on the parts!. Well, most of them at least. This is very useful to weed out non-LEGO parts and also find out what the part is. It’s not very east to read the numbers though. That’s why I bought an &lt;a href=&quot;https://www.amazon.co.uk/gp/product/B07XDTRKM8/&quot;&gt;otoscope&lt;/a&gt;. It is essentially a handheld microscope. By the help of this and the part database I was able to find about %99.99 of all the parts I had. So if you have lots of unsorted bulk LEGO I highly recommend buying one of those cameras.&lt;/p&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://brickstock.patrickbrans.com/&quot;&gt;BrickStock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bricklink.com/catalogTree.asp?itemType=P&quot;&gt;BrickLink Part Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.uk/gp/product/B07XDTRKM8/&quot;&gt;Amazon: Otoscope ear camera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 26 Sep 2020 03:00:00 +0100</pubDate>
+        <link>https://lego.volkanpaksoy.com/archive/2020/09/26/inventory/</link>
+        <guid isPermaLink="true">https://lego.volkanpaksoy.com/archive/2020/09/26/inventory/</guid>
+        
+        <category>brickstock</category>
+        
+        <category>inventory</category>
+        
+        <category>management</category>
+        
+        
+        <category>inventory</category>
+        
+      </item>
     
       <item>
         <title>Basics</title>
