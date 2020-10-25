@@ -5,9 +5,79 @@
     <description>A personal blog for a journey in LEGO</description>
     <link>https://lego.volkanpaksoy.com/</link>
     <atom:link href="https://lego.volkanpaksoy.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2020 07:15:01 +0100</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2020 07:15:01 +0100</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2020 04:19:46 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2020 04:19:46 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Robot Inventor and SPIKE Prime First Tests</title>
+        <description>&lt;p&gt;In the last post, I published photos of my latest news which includes Robot Inventor (51515) and SPIKE Prime (45678). They are similar in the sense that they come with the same programmable brick.&lt;/p&gt;
+
+&lt;h2 id=&quot;spike-prime-and-expansion-set&quot;&gt;SPIKE Prime and Expansion Set&lt;/h2&gt;
+&lt;p&gt;I bought the expansion set because of this simple principle: In for a penny in for a pound! I had alerady spent too much money anyway so what’s another £110 between me and LEGO!&lt;/p&gt;
+
+&lt;p&gt;Anyway, it came with lots of pieces but only 1 sensor and 1 motor so probably wasn’t a great purchase after all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/10/25/first-tests/spike-prime-motors-and-sensors.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you unbox SPIKE Prime, you don’t get a instruction booklet. There’s only a link that you’re supposed to visit to get started: &lt;a href=&quot;https://education.lego.com/en-gb/start&quot;&gt;LEGOEducation.com/start&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a step by step guide that shows you how to install the required software which is an iPadOS in my case called LEGO Education SPIKE. The app runs you through a tutorial thats shows how to build a program and deploy to the hub.&lt;/p&gt;
+
+&lt;p&gt;Before that it asked me to update Hub OS though which requires connecting the hub to a computer. It requires a software download on the computer to carry out the first update as the first update cannot be done via Bluetooth apparently.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/10/25/first-tests/hub-os-update-01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/10/25/first-tests/hub-os-update-02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After that I created a project and connected the motors and sensors and I was able to get some response and confirm they are working.&lt;/p&gt;
+
+&lt;h2 id=&quot;robot-inventor&quot;&gt;Robot Inventor&lt;/h2&gt;
+&lt;p&gt;Robot inventor set doesn’t come with paper instructions either.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/10/25/first-tests/IMG_3658.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is a similar set to SPIKE Prime but comes with different motors and sensors.&lt;/p&gt;
+
+&lt;p&gt;In the booklet, it suggested you go to this address to check your device: &lt;a href=&quot;https://www.lego.com/en-gb/service/device-guide&quot;&gt;LEGO.com/devicecheck&lt;/a&gt; which contains links to download the app.&lt;/p&gt;
+
+&lt;p&gt;I downloaded both iPadOS and macOS versions from the corresponding App Stores.&lt;/p&gt;
+
+&lt;p&gt;Similar to SPIKE Prime, I connected the hub via USB and got this message:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/10/25/first-tests/mindstorms-new-project.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll try developing programs in Python later. Just to see everything is working fine I connected the motors and sensors:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2020/10/25/first-tests/mindstorms-motors-and-sensors-connected.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I found Bluetooth connection is a bit slow but it seems to work fine after it’s connected.&lt;/p&gt;
+
+&lt;p&gt;Having the ability to program in Python is great. It’s in beta mode now but I will give it a go anyway.&lt;/p&gt;
+
+&lt;p&gt;Now that I was able to see them in action, I will start building the robots that can be built by Robot Inventor and take it from there…&lt;/p&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://antonsmindstorms.com/2020/10/17/lego-51515-robot-inventor-vs-spike-prime-set-45678/&quot;&gt;LEGO 51515 Robot Inventor vs. SPIKE Prime set 45678&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 25 Oct 2020 02:00:00 +0000</pubDate>
+        <link>https://lego.volkanpaksoy.com/archive/2020/10/25/robot-inventor-and-spike-prime-first-tests/</link>
+        <guid isPermaLink="true">https://lego.volkanpaksoy.com/archive/2020/10/25/robot-inventor-and-spike-prime-first-tests/</guid>
+        
+        <category>mindstorms</category>
+        
+        <category>spike_prime</category>
+        
+        <category>robot_inventor</category>
+        
+        
+        <category>dev</category>
+        
+      </item>
     
       <item>
         <title>Sith Troopers Mod Revisited</title>
@@ -481,21 +551,6 @@
         
         
         <category>info</category>
-        
-      </item>
-    
-      <item>
-        <title>Getting Started</title>
-        <description>&lt;p&gt;This is going to be my new blog to document my attempt to take up LEGO as a hobby. It doesn’t have a strict direction in mind at the moment. I’ll just post anything LEGO-related and see how it goes.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Sep 2020 05:00:00 +0100</pubDate>
-        <link>https://lego.volkanpaksoy.com/archive/2020/09/24/getting-started/</link>
-        <guid isPermaLink="true">https://lego.volkanpaksoy.com/archive/2020/09/24/getting-started/</guid>
-        
-        <category>introduction</category>
-        
-        
-        <category>misc</category>
         
       </item>
     
